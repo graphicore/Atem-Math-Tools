@@ -31,6 +31,6 @@
   "dependencies": {
     "Atem-CPS-whitelisting": "graphicore/Atem-CPS-whitelisting",
     "Atem-Errors": "graphicore/Atem-Errors",
-    "complex": "graphicore/complex#~3.0.1"
+    "complex": "graphicore/complex"
   }
 }
